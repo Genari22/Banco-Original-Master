@@ -1,7 +1,7 @@
  @aberturaconta
 Feature: Abertura de conta
 
- @pf
+ @pfisica
  Scenario Outline: Abertura de conta pessoa fisica
  Given que o usuario acesse a url "https://www.original.com.br/"
  And (E) selecionar o botao cookies
