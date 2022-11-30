@@ -1,4 +1,4 @@
- @aberturaconta
+ @aberturacontas
 Feature: Abertura de conta
 
  @pfisica
